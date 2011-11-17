@@ -1,0 +1,6 @@
+ajouter une mention des ranges ruby (1..3) qui sont équivalents des range(1,3)
+mentioner aux programeurs rubys que les parenthèses sont obligatoires et qu'on ne fini pas pas ! ou ? sous peine d'une erreur de syntaxe
+
+pour regex pas d'object litteral regex comme en perl, Ruby ou JS. c'est des strings.
+
+Python n'a pas la syntaxe ruby pour faire string[replacement]: on doit utiliser la méthode replace
