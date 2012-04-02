@@ -3,9 +3,8 @@ télécharger les 100 questions les plus importantes de stackoverflow sur Python
 faire un chapitre avec un script qui prend les 100 lettres et les 100 mots les plus utilisés dans un texte pour apprendre une langue
 par exemple en téléchargeant 100 article de wikipedia au harard
 
-fréquence de consultation de site porno ? dump de l'histo de firefox:> analyse du json
 
-un script pour renommer des fichiers 
+un script pour renommer des fichiers
 
 un script pour récupérer les pièces jointes de mails sur google mail
 
@@ -13,7 +12,7 @@ un projet:
 
 connaitre les 100 mots les plus utilisés dans la langue française
 
-parser wikipedia en francais (https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard puis 
+parser wikipedia en francais (https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard puis
 prendre le dernier mot, le mettre dans titles dans cette url:
 
 http://fr.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=xml&titles=Baye_%28Finist%C3%A8re%29
@@ -24,7 +23,7 @@ puis stripper le markup (http://www.mediawiki.org/wiki/Help:Formatting#Text_form
 parser twitter en français (http://search.twitter.com/search.json?lang=fr&q=*&result_type=recent = derniers tweats en français)
 parser project gutemberg en français (http://www.gutenberg.org/browse/languages/fr puis choisir les livres puis pur utf8)
 
-tourner en mode daemon, envoyant un email si le script 
+tourner en mode daemon, envoyant un email si le script
 recontre une erreur
 
 tout stockeer dans une base de données
