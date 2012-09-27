@@ -12,7 +12,7 @@ un projet:
 
 connaitre les 100 mots les plus utilisés dans la langue française
 
-parser wikipedia en francais (https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard puis
+parser wikipedia en francais (https://fr.wikipedia.org/wiki/Special:Random puis
 prendre le dernier mot, le mettre dans titles dans cette url:
 
 http://fr.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=xml&titles=Baye_%28Finist%C3%A8re%29
