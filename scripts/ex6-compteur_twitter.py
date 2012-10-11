@@ -189,11 +189,3 @@ if __name__ == "__main__":
         print "%s: %s" % (word, score)
 
 
-class Daedalus(object):
-
-    powered_by = "zpm"
-    crew = 220
-
-    def __init__(self, color="blue", crew=None):
-        self.color = color
-        self.crew = crew or self.crew
